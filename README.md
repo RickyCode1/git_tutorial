@@ -1,2 +1,5 @@
 # git_tutorial
-Learning git 
+# Learning git 
+### Richard Hughes
+### Currently student
+### Jogging, coding, music 
