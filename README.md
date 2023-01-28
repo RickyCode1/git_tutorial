@@ -1,6 +1,6 @@
 # git_tutorial
 # Learning git 
 ### Richard Hughes
-### Currently student
+### Life Student
 ### Jogging, coding, music, movies 
 #
