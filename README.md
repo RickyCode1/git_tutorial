@@ -2,5 +2,5 @@
 # Learning git 
 ### Richard Hughes
 ### Currently student
-### Jogging, coding, music 
+### Jogging, coding, music, movies 
 #
